@@ -1,0 +1,25 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+body {
+  text-align: center;
+}
+#name {
+  width: 50%;
+}
+#table {
+  margin-left: 15%;
+}
+table {
+  margin: 10px;
+}
+table tr th {
+  background-color: whitesmoke;
+  padding: 0px 5rem;
+}
+
+table tr td {
+  background-color: turquoise;
+  padding: 0px 5rem;
+}
